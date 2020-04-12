@@ -3,7 +3,7 @@
 ## About
 ```
 __author__    = "Ben Y(https://www.github.com/stmapman7)
-__copyright__ = "&copy; 2020"
+__copyright__ = "© 2020"
 __credits__ = [Mark Lassoff, founder Framework TV]
 
 ```
